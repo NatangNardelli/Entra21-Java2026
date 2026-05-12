@@ -7,5 +7,7 @@ public class aulafor {
             System.out.println("Número: " + i);
         }
         System.out.println("Soma: " + soma);
+        System.out.println(" Final do Programa");
+        // Exemplo explicativo para for
     }
 }
